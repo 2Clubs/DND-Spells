@@ -9,8 +9,7 @@
       integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8="
       crossorigin="anonymous"
     ></script>
-    <script>
-      "./js/script.js";
+    <script defer src="js/script.js">
     </script>
     <title>5e Spells</title>
   </head>
@@ -19,12 +18,14 @@
       <h1>DND Spell Lookup</h1>
       <h2>Select the spell below to see basic information.</h2>
       <form>
-        <input type="search" placeholder="Spell Name" list="spells" />
+        <input type="text" placeholder="Spell Name" />
         <input type="submit" value="Search">
-        <datalist id="spells">
+        <!-- <datalist id="spells">
             <option id="acid-spray" value="Acid Spray"></option>
-        </datalist>
+        </datalist> -->
       </form>
+      <!-- <h3>Name</h3>
+      <p id="name"></p> -->
     </main>
   </body>
 </html>
