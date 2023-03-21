@@ -20,6 +20,7 @@ function handleGetData(event) {
     (data) => {
       spellData = data;
       render();
+        $input.val('');
     },
     (error) => {
       console.log("bad request: ", error);
