@@ -8,7 +8,7 @@ A web application designed as a quick reference for D&D spells.
 - jQuery
 - AJAX
 - JSON
-- DND 
+- DND API
 
 ### Screenshots
 
