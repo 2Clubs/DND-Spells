@@ -12,6 +12,7 @@ A web application designed as a quick reference for D&D spells.
 
 ### Screenshots
 
+![DND app](/images/Screenshot%202023-03-23%20at%202.38.38%20PM.png)
 
 ### Getting Started
 

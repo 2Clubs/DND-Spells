@@ -8,3 +8,6 @@ h1{
 main {
     text-align: center;
 }
+#text {
+    width: 250px;
+}
