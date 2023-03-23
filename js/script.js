@@ -2,15 +2,15 @@ let spellData, userInput;
 
 const $spellNameHeader = $(`<h3>Name</h3>`);
 const $spellName = $(`<p id="name"></p>`);
-const $spellDescHeader = $(`<p>Description</p>`);
+const $spellDescHeader = $(`<h4>Description</h4>`);
 const $spellDesc = $(`<p id="description"></p>`);
-const $spellLevelHeader = $(`<p>Level</p>`);
+const $spellLevelHeader = $(`<h4>Level</h4>`);
 const $spellLevel = $(`<p id="level"></p>`);
-const $spellRangeHeader = $(`<p>Range</p>`);
+const $spellRangeHeader = $(`<h4>Range</h4>`);
 const $spellRange = $(`<p id="range"></p>`);
-const $spellSchoolHeader = $(`<p>School</p>`)
+const $spellSchoolHeader = $(`<h4>School</h4>`)
 const $spellSchool = $(`<p id="school"></p>`)
-const $spellMaterialsHeader = $(`<p>Materials</p>`)
+const $spellMaterialsHeader = $(`<h4>Materials</h4>`)
 const $spellMaterials = $(`<p id="materials"></p>`)
 const $main = $(`main`);
 const $input = $(`input[type="text"]`);
