@@ -15,7 +15,7 @@ A web application designed as a quick reference for D&D spells.
 
 ### Getting Started
 
-[Click here](https://2clubs.github.io) to get started. Then simple begin typing your desired spell.
+[Click here](https://2clubs.github.io/DND-Spells) to get started. Then simple begin typing your desired spell.
 
 ### Future Enhancements
 
