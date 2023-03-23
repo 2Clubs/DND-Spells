@@ -45,7 +45,7 @@ function render() {
   $spellLevel.text(spellData.level);
   $main.append($spellSchoolHeader)
   $main.append($spellSchool)
-  // $spellSchool.text(spellData.school.name)
+  $spellSchool.text(spellData.school.name)
   $main.append($spellRangeHeader);
   $main.append($spellRange);
   $spellRange.text(spellData.range);

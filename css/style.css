@@ -2,12 +2,13 @@ body {
     background-color: #D9B389;
 }
 h1{
-    text-align: center;
     background-color: #A08465;
 }
 main {
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 #text {
     width: 250px;
+    font-size: 16px;
 }
